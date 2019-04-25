@@ -2,3 +2,4 @@ Resolusi
 Konsistent belajar
 Belajar
 Banyak latihan
+Javascript
