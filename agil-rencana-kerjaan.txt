@@ -4,3 +4,5 @@ CSS Animation
 JAVAsscript
 Framework Javascript
 Latihan lagi
+belajar struktur
+app based
